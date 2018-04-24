@@ -4,3 +4,9 @@
 index.psd
 /psd
 asd.js
+/app
+package.json
+package-lock.json
+bower.json
+gulpfile.babel.js
+.babelrc
