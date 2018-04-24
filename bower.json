@@ -1,0 +1,33 @@
+{
+  "name": "Folio",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Akopean"
+  ],
+  "license": "MIT License",
+  "keywords": [
+    "gulp"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "popper.js": "^1.14.1",
+    "bootstrap": "4.0",
+    "axios": "^0.18.0",
+    "sly": "^1.6.1",
+    "isotope-layout": "^3.0.5",
+    "imagesloaded": "^4.1.4",
+    "perfect-scrollbar": "^0.8.1",
+    "jquery-migrate": "^3.0.0",
+    "isotope-masonry-horizontal": "^2.0.1",
+    "lodash": "^4.17.5"
+  }
+}
